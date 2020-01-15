@@ -1,0 +1,18 @@
+Package: peakFinder
+Title: peakFinder
+Version: 0.0.1
+Author: Hemi Luan
+Maintainer: Hemi Luan <hemi.luan@gmail.com>
+Depends: R (>= 3.6.0), MSnbase (>= 2.11.2), ggplot2
+Imports: xcms (>= 3.7.5), BiocParallel, methods, utils,stats,signal,dplyr
+VignetteBuilder: knitr
+Suggests: testthat, BiocStyle, knitr, rmarkdown
+Description: xx
+License: LGPL (>= 3)
+URL: https://stattarget.github.io
+biocViews: xx
+RoxygenNote: 6.1.1
+LazyData: true
+NeedsCompilation: no
+BuildVignettes: true
+Encoding: UTF-8
